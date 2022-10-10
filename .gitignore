@@ -1,2 +1,2 @@
-./yarn.lock
-./env
+yarn.lock
+.env
