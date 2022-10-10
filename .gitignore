@@ -1,2 +1,6 @@
-/yarn.lock
-/.env
+# dependencies
+/node_modules
+/dist
+
+yarn.lock
+.env
